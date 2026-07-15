@@ -44,8 +44,8 @@ function Hero() {
           <a href="#contact">
             Contact Me
           </a>
-          <a
-  href={"#contacts"}
+      <a
+  href="https://drive.google.com/file/d/15rvPp8kseWXhF5_B6XneDQS7Y5BFFJA3/view?usp=drive_link"
   target="_blank"
   rel="noreferrer"
 >
