@@ -11,7 +11,7 @@ function Projects() {
 
     {
       title:"Campus Connect Portal",
-      tech:"Java | JSP | Servlet | MySQL",
+      tech:"Java | JSP | Thymeleaf | MySQL",
       desc:"Portal that helps students connect, communicate and access academic information."
     },
 
